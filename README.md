@@ -1,6 +1,4 @@
-Here’s the improved version of your README styled like the reference code:
 
-```markdown
 # Hi there, I'm Vishal Chennuri 👋 
 
 <div align="center">
