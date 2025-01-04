@@ -13,11 +13,10 @@ I am a passionate software developer focused on creating scalable and efficient 
 
 ```javascript
 const skills = {
-    languages: ['Python', 'C', 'Java', 'C++'],
-    frameworks: ['Flutter', 'Node.js'],
+    languages: ['Java', 'Python', 'C', 'C++'],
+    frameworks: ['React.js', 'Node.js'],
     databases: ['MySQL', 'MongoDB', 'Firebase'],
     devOps: ['Docker', 'Kubernetes', 'Git'],
-    cloud: ['AWS', 'Google Cloud'],
 };
 ```
 
@@ -58,7 +57,7 @@ const skills = {
 ![Snake animation](snake.svg)
 
 ## 🎯 Current Focus
-- Deepening my understanding of application development.
+- Deepening my understanding of Web development.
 - Learning about deployment processes and cloud technologies.
 - Contributing to open-source projects.
 - Solving algorithmic problems on LeetCode.
