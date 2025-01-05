@@ -65,7 +65,7 @@ const skills = {
 ## 🤝 Connect With Me
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-vishalchennuri%40example.com-red?style=for-the-badge&logo=gmail)](mailto:vishalchennuri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vishalchennuri%40example.com-red?style=for-the-badge&logo=gmail)](mailto:vishalnetha7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Chennuri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalchennuri/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-VishalChennuri-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/VishalChennuri/)
 
