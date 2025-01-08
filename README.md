@@ -61,7 +61,7 @@ const skills = {
 - Learning about deployment processes and cloud technologies.
 - Contributing to open-source projects.
 - Solving algorithmic problems on LeetCode.
-
+- Working on a project
 ## 🤝 Connect With Me
 <div align="center">
   
