@@ -16,7 +16,7 @@ const skills = {
     languages: ['Java', 'Python', 'C', 'C++'],
     frameworks: ['React.js', 'Node.js'],
     databases: ['MySQL', 'MongoDB', 'Firebase'],
-    devOps: ['Docker', 'Kubernetes', 'Git'],
+    devOps: ['Docker', 'Kubernetes', 'Git','GitHub'],
 };
 ```
 
