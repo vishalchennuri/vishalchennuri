@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 About Me..
-I am a passionate software developer focused on creating scalable and efficient applications. My journey in tech is driven by curiosity and a constant desire to learn. I thrive on solving complex problems and exploring new technologies that can make a difference...
+I am a passionate software developer focused on creating scalable and efficient applications. My journey in tech is driven by curiosity and a constant desire to learn. I thrive on solving complex problems and exploring new technologies that can make a difference..
 
 ## 🔧 Tech Arsenal
 
