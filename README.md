@@ -1,5 +1,5 @@
 
-# Hi there, I'm Vishal Chennuri..👋
+# Hi there, I'm Vishal Chennuri...👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Love+Problem+Solving;Passionate+Learner" alt="Typing SVG" />
